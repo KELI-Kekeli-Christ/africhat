@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Training artifacts (trop lourds pour Git — à récupérer via Hugging Face ou entraînement local)
+checkpoints/
+*.pt
+*.bin
+*.safetensors
+
+# Données générées
+data/train.jsonl
+data/val.jsonl
+
+# Cache & logs
+logs/
+*.log
+.hf_cache/
+hf_cache/
+tmp/
+pip_cache/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+*.swp
