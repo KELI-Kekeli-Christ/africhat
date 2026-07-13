@@ -1,4 +1,4 @@
-# 🇨🇮 AfriChat
+# AfriChat
 
 **Ton gars d'Abidjan dans ta poche** — un chatbot francophone africain fine-tuné sur **Mistral-Nemo-12B-Instruct**, qui parle comme un vrai pote : nouchi, camfranglais, expressions de Lomé, taquineries de tonton et conseils cash.
 
