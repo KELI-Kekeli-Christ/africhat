@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="README.md"><b>English</b></a>
+  &nbsp;·&nbsp;
+  <a href="README.fr.md">Français</a>
+  &nbsp;·&nbsp;
+  <a href="README.es.md">Español</a>
+</p>
+
 # AfriChat
 
 **Ton gars d'Abidjan dans ta poche** — un chatbot francophone africain fine-tuné sur **Mistral-Nemo-12B-Instruct**, qui parle comme un vrai pote : nouchi, camfranglais, expressions de Lomé, taquineries de tonton et conseils cash.
